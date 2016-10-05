@@ -15,6 +15,7 @@
     "async": "^2.0.1",
     "es5-shim": "^4.3.1",
     "fh-js-sdk": "^2.17.1",
+    "fh-wfm-appform": "0.0.17",
     "jquery": "^2.1.1"
   },
   "devDependencies": {
